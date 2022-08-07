@@ -1,4 +1,6 @@
 import json
+# difflib -> for comparing directories and files. can produce difference information in various formats
+# get_close_matches (word, possibilities(list in which to search for close matches of word), n(maximum number of close matches), cutoff)
 from difflib import get_close_matches
 
 data = json.load(open("data.json"))
