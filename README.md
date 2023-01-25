@@ -1,2 +1,2 @@
 # EnglishThesaurus
-Building a English Dictionary Non GUI Project using python
+Builded a English Dictionary Non GUI Project using python
